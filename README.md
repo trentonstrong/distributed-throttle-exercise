@@ -2,7 +2,7 @@
 
 An exercise in designing a distributed throttle.
 
-Read the [SPEC](Spec.md) first.
+Read the [SPEC](SPEC.md) first.
 
 ### Dependencies:
 
